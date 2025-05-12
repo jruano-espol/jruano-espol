@@ -11,7 +11,7 @@ Estudiante de computación en la ESPOL.
 - **Tecnologías**: Python
 - **Estado**: ✅ Completado
 
-### 📱 [Proyecto de Estructuras de Datos]([enlace](https://github.com/jruano-espol/ProyectoEstructuraDeDatos-Grupo8))
+### 📱 [Proyecto de Estructuras de Datos]([enlace](https://github.com/jruano-espol/ProyectoEstructuraDeDatos-Grupo8)
 - **Descripción**: Aplicación CLI de mensajería con una Lista Linkeada Circular.
 - **Tecnologías**: Java
 - **Estado**: 🛠 ✅ Completado
